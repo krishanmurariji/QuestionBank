@@ -32,9 +32,14 @@ I would like to express my gratitude to the coding community for their invaluabl
 
 If you have any questions, suggestions, or just want to chat about coding and web development, feel free to reach out to me:
 
-- Website: [https://krishanmurari.vercel.app/](https://krishanmurari.vercel.app/)
-- Email: [krishanmurari.gjimt@gmail.com](mailto:krishanmurari.gjimt@gmail.com)
-- Twitter: [@KrishanMuraari](https://twitter.com/KrishanMuraari)
-- LinkedIn: [Krishan Murari](https://linkedin.com/in/krishan-murari/)
-
+<a href="https://linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://twitter.com/KrishanMuraari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/krishanmurariji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://github.com/krishanmurariji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/Krishanmurariji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
 Happy coding! 🎉
